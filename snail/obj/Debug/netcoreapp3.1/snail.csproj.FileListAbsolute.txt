@@ -1,0 +1,11 @@
+/home/jeremy/snail/bin/Debug/netcoreapp3.1/snail
+/home/jeremy/snail/bin/Debug/netcoreapp3.1/snail.deps.json
+/home/jeremy/snail/bin/Debug/netcoreapp3.1/snail.runtimeconfig.json
+/home/jeremy/snail/bin/Debug/netcoreapp3.1/snail.runtimeconfig.dev.json
+/home/jeremy/snail/bin/Debug/netcoreapp3.1/snail.dll
+/home/jeremy/snail/bin/Debug/netcoreapp3.1/snail.pdb
+/home/jeremy/snail/obj/Debug/netcoreapp3.1/snail.csprojAssemblyReference.cache
+/home/jeremy/snail/obj/Debug/netcoreapp3.1/snail.AssemblyInfoInputs.cache
+/home/jeremy/snail/obj/Debug/netcoreapp3.1/snail.AssemblyInfo.cs
+/home/jeremy/snail/obj/Debug/netcoreapp3.1/snail.dll
+/home/jeremy/snail/obj/Debug/netcoreapp3.1/snail.pdb
